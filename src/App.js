@@ -130,7 +130,7 @@ const upLoad = async ()=>{
       
     ])
     setContent("COVID- 19 :" + covidF +"% \n" +
-    "VIEM PHOI :" + penumalF +"% \n" +
+    "PNEUMONIA :" + penumalF +"% \n" +
     "NORMAL :" + normalF +"% \n");    
     }
     
