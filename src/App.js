@@ -64,7 +64,7 @@ const upLoad = async ()=>{
     setConfirmDialog({
       isOpen :true,
       title: "Warning",
-      subTitle :"Đề nghị bro chọn file",
+      subTitle :"Đề nghị chọn file",
     });
     // alert("đề nghị bro chọn file");
     return ;
@@ -87,7 +87,7 @@ const upLoad = async ()=>{
       setConfirmDialog({
         isOpen :true,
         title: "Warning",
-        subTitle :"Nhập ảnh đi bro !",
+        subTitle :"Đề nghị nhập ảnh đi !",
       });
       // alert("nhập file ảnh đi bro !");
     return ;
@@ -96,7 +96,7 @@ const upLoad = async ()=>{
       setConfirmDialog({
         isOpen :true,
         title: "Warning",
-        subTitle :"Đề nghị bro chọn ảnh x -quang phổi",
+        subTitle :"Đề nghị chọn ảnh x -quang phổi",
       });
       // alert("nhập ảnh ct phổi thôi bro !");
       return ;
