@@ -6,7 +6,7 @@ class Headers extends Component {
     <nav class="navbar navbar-expand-lg navbar-light bg-danger" id="nav-header">
       <a class="navbar-brand text-light" href="#">
       <h1 className="app-name ml-4 mb-0 text-white">
-      CHẨN ĐOÁN BỆNH PHỔI VỚI ẢNH CT
+      CHẨN ĐOÁN BỆNH PHỔI VỚI ẢNH X -QUANG
       </h1>
       
       </a>
