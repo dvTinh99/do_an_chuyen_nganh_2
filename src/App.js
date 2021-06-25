@@ -72,7 +72,7 @@ const upLoad = async ()=>{
   setIsuploaded(undefined);
   let formData = new FormData()
   formData.append("file", file);
-  axios.post('http://localhost:8000/uploadfile', formData, {
+  axios.post('http://4ba856e45a82.ngrok.io/uploadfile', formData, {
     // headers: {
     //   'Content-Type': imagefile.type
     // }
